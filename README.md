@@ -6,7 +6,7 @@
 
 Projeto concluído no Stage 2 do Curso Explorer da Rocketseat. 
 
-[🔗 Clique aqui para acessar](https://alinecasemiro.github.io/meuprojeto/) 
+[🔗 Clique aqui para acessar](https://alinecasemiro.github.io/Projeto-01/) 
 
 ## 🛠 Tecnologias 
 - HTML
